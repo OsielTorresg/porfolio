@@ -7,7 +7,7 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Eccomerce",
+    title: "Ecommerce",
     img: "./assest/eccomerce.png",
     link: "https://exotic-snacks.herokuapp.com/",
     github: "https://github.com/OsielTorresg/ReactE",
@@ -31,7 +31,7 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Tic-Tac-To",
+    title: "Tic-Tac-Toe",
     img: "./assest/tic-tac-to.png",
     desc: "Game",
   },
