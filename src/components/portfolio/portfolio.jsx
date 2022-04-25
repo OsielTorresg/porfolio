@@ -12,7 +12,7 @@ export default function Portfolio() {
 
             <h4>{d.desc}</h4>
 
-            <div className="btn">
+            <div className="button">
               <button>
                 <a href={d.link} target="_blank">
                   View Project

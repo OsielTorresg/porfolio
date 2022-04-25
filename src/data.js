@@ -11,7 +11,7 @@ export const projects = [
     img: "./assest/eccomerce.png",
     link: "https://exotic-snacks.herokuapp.com/",
     github: "https://github.com/OsielTorresg/ReactE",
-    desc: " japanese snacks website",
+    desc: " Japanese snacks website",
   },
   {
     id: 3,
