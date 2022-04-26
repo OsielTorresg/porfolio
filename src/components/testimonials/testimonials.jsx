@@ -8,7 +8,7 @@ export default function Testimonials() {
       title: "Senior Developer",
       img: "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/twitter.png",
-      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+      desc: "Great Team leader Perfect for team projects",
     },
     {
       id: 2,
@@ -16,7 +16,7 @@ export default function Testimonials() {
       title: "Co-Founder of DELKA",
       img: "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/youtube.png",
-      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+      desc: "The best person to go to for any code related problems and is always giving positive vibes",
       featured: true,
     },
     {
@@ -25,7 +25,7 @@ export default function Testimonials() {
       title: "CEO of ALBI",
       img: "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
-      desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+      desc: "He is really experinced at what he does and is a great Public Speaker",
     },
   ];
   return (

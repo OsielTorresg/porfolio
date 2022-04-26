@@ -4,6 +4,7 @@ export const projects = [
     title: "Spain",
     img: "./assest/spain.png",
     desc: "Travel guide to Spain ",
+    link: "https://spain-presentation.osieltorres.repl.co/",
   },
   {
     id: 2,
@@ -34,5 +35,7 @@ export const projects = [
     title: "Tic-Tac-Toe",
     img: "./assest/tic-tac-to.png",
     desc: "Game",
+    link: "https://r2hgame.netlify.app/",
+    github: "https://github.com/OsielTorresg/tic-tac-toe-hooks",
   },
 ];
